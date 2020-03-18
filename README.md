@@ -27,7 +27,7 @@
 - However these data sources are not always updated frequently enough or may not provide sufficient granular data for the agile needs of disaster response agencies
 
 <b> Key Objective </b>
-- Build a model that will take zip codes or location as input and will leverage frequently updated commercial data to estimate geospatial affluence with high accuracy
+- Build a model that will take zip codes or location as input and will leverage frequently updated commercial data to estimate geospatial affluence with high accuracy for disaster response agency client
 
 ---
 
