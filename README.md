@@ -1,9 +1,6 @@
 # Predicting Geospatial Affluence With Yelp Data
 
-### Project Authors
-- Pablo Rivera | <u>[LinkedIn](https://www.linkedin.com/in/pabrivera/)</u>
-- Elizabeth Jafek | <u>[LinkedIn](https://www.linkedin.com/in/elizabeth-jafek/)</u>
-- Libin Huang | <u>[LinkedIn](https://www.linkedin.com/in/libinh/)</u>
+### Group Project
 
 ---
 
